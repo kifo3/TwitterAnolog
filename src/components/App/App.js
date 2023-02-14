@@ -12,7 +12,7 @@ export default class App extends React.Component {
         super()
         this.state = {
             data: [
-                {lebel: 'Going to learn React JS', important: true, like: false, id: 1},
+                {lebel: 'Going to learn React JS', important: true, like: true, id: 1},
                 {lebel: 'That is so good', important: false, like: false, id: 2},
                 {lebel: 'I need a beak..', important: false, like: false, id: 3},
             
